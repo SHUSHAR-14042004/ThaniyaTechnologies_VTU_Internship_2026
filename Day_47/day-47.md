@@ -1,0 +1,1 @@
+Initialized a local Git repository and successfully configured user credentials globally. Managed file tracking by adding changes and committing them with descriptive messages to save permanent snapshots of the project. Utilized branching strategies by creating, checking, and switching between independent feature branches to isolate new development work from the main codebase.
